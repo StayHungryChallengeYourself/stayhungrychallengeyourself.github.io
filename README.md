@@ -1,2 +1,4 @@
 # stayhungrychallengeyourself.github.io
-Personal GitHub Pages
+
+- [Blog](https://stayhungrychallengeyourself.github.io/blog)
+  
