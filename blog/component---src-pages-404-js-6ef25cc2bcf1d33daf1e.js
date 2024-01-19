@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_thoughts=self.webpackChunkmy_thoughts||[]).push([[883],{429:function(e,t,a){a.r(t);var l=a(7294),n=a(4854);t.default=e=>{let{data:t}=e;return l.createElement("div",{className:"container"},l.createElement("div",{className:"row"},l.createElement("div",{className:"col"},l.createElement("h4",null,"找不到你的页面，本站所有頁面為："),t.allSitePage.edges.map((e=>l.createElement(n.Link,{to:e.node.path,href:e.node.path,key:e.node.path},l.createElement("li",null,e.node.path)))))))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-6ef25cc2bcf1d33daf1e.js.map
